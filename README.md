@@ -1,4 +1,5 @@
 # KCaro92.github.io
+Controls: Move with mouse, attack with spacebar 
 
 Godot World Assignment. I followed the 2D tutorial on Godot and made a few changes. Here are the changes I've made: 
 
